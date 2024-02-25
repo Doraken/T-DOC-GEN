@@ -15,11 +15,17 @@ def update_config_paths():
     else:
         config = {}
 
-    # Mettre à jour les chemins dans la configuration
+    # Mettre à jour les chemins dans la configuration avec le chemin racine en premier
     config['chemin_racine'] = project_root.replace("\\", "/")  # Utiliser des chemins POSIX
+    # Mise à jour des chemins pour lib et run en utilisant le chemin racine
     config['chemin_lib'] = os.path.join(config['chemin_racine'], 'lib/').replace("\\", "/")
     config['chemin_run'] = os.path.join(config['chemin_racine'], 'run/').replace("\\", "/")
-    config['chemin_log_base'] = os.path.join(config['chemin_racine'], 'data', 'log/').replace("\\", "/")
+    config['chemin_log_base'] = os.path.join(config['chemin_racine'], 'data/log/').replace("\\", "/")
+    config['data_directories'] = {
+        'resources': os.path.join(config['chemin_racine'], 'data/resources').replace("\\", "/"),
+        'import_templates': os.path.join(config['chemin_racine'], 'data/resources/import_templates').replace("\\", "/"),
+        'images': os.path.join(config['chemin_racine'], 'data/resources/images').replace("\\", "/")
+    }
 
     # Écrire la configuration mise à jour dans le fichier
     with open(config_path, 'w') as file:

@@ -29,3 +29,34 @@ Clonez le dépôt sur votre machine locale :
 
 ```bash
 git clone https://github.com/Doraken/T-DOC-GEN
+
+### Structure du Projet
+
+Le projet est structuré comme suit :
+
+projet/
+│
+├── bin/
+│   ├── launcher.py  # Script pour lancer l'application
+│   └── configure_paths.py  # Script pour configurer les chemins
+│
+├── config/
+│   └── config.json  # Fichier de configuration des chemins
+│
+├── lib/
+│   └── log.py  # Module de logging personnalisé
+│
+├── run/
+│   └── scenario_base.py  # Script de scénario de base
+│
+└── data/
+    ├── log/  # Répertoire pour les fichiers de log
+    └── output/  # Répertoire pour les fichiers Word générés
+
+
+## Utilisation
+
+Pour lancer l'application, exécutez le script `launcher.py` situé dans le dossier `bin/` :
+
+```bash
+python bin/launcher.py
