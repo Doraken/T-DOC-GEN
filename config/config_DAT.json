@@ -1,0 +1,199 @@
+{
+    "DAT": {
+        "Description of the Project Scope: ": {},
+        "Initial need:": {
+            "Initial need:": {}
+        },
+        "Target population:": {
+            "Target population:": {}
+        },
+        "Service constraint:": {
+            "Service constraint:": {}
+        },
+        "Legal constraints": {
+            "Legal constraints": {
+                "Legal constraints": {}
+            }
+        },
+        "Constraints linked to action audits ": {
+            "Constraints linked to action audits ": {
+                "Constraints linked to action audits ": {
+                    "Constraints linked to action audits ": {}
+                }
+            }
+        },
+        "Constraints linked to system audits": {
+            "Constraints linked to system audits": {
+                "Constraints linked to system audits": {
+                    "Constraints linked to system audits": {}
+                }
+            }
+        },
+        "Constraints related to archiving.": {
+            "Constraints related to archiving.": {
+                "Constraints related to archiving.": {
+                    "Constraints related to archiving.": {}
+                }
+            }
+        },
+        "Technical Constraints ": {
+            "Technical Constraints ": {}
+        },
+        "Service opening constraints.": {
+            "Service opening constraints.": {
+                "Service opening constraints.": {}
+            }
+        },
+        "Constraints linked to service availability": {
+            "Constraints linked to service availability": {
+                "Constraints linked to service availability": {}
+            }
+        },
+        "Application Classification Solution ": {
+            "Application Classification Solution ": {}
+        },
+        "Description of the solution.": {},
+        "High-level Description": {
+            "High-level Description": {}
+        },
+        "": {
+            "": {}
+        },
+        "Overall Architecture of the solution.": {
+            "Overall Architecture of the solution.": {}
+        },
+        "Description of the solution environments": {
+            "Description of the solution environments": {}
+        },
+        "Development Environment.": {
+            "Development Environment.": {
+                "Development Environment.": {}
+            }
+        },
+        "Qualification Environment": {
+            "Qualification Environment": {
+                "Qualification Environment": {}
+            }
+        },
+        "Integration environment.": {
+            "Integration environment.": {
+                "Integration environment.": {}
+            }
+        },
+        "Pre-production environment": {
+            "Pre-production environment": {
+                "Pre-production environment": {}
+            }
+        },
+        "Production environment.": {
+            "Production environment.": {
+                "Production environment.": {}
+            }
+        },
+        "Technological choice of solution.": {
+            "Technological choice of solution.": {}
+        },
+        "Choice of operating systems.": {
+            "Choice of operating systems.": {
+                "Choice of operating systems.": {}
+            }
+        },
+        "Choice of technical solution.": {
+            "Choice of technical solution.": {
+                "Choice of technical solution.": {}
+            }
+        },
+        "Representation of the proposed architecture.": {
+            "Representation of the proposed architecture.": {}
+        },
+        "Detailed Architecture": {},
+        "Description of the Development Environment.": {
+            "Description of the Development Environment.": {}
+        },
+        "Description of the specific admin accounts.": {
+            "Description of the specific admin accounts.": {
+                "Description of the specific admin accounts.": {}
+            }
+        },
+        "Description of Service Accounts.": {
+            "Description of Service Accounts.": {
+                "Description of Service Accounts.": {}
+            }
+        },
+        "Description of the servers.": {
+            "Description of the servers.": {
+                "Description of the servers.": {}
+            }
+        },
+        "Server XXX-XXX-XXX-01": {
+            "Server XXX-XXX-XXX-01": {
+                "Server XXX-XXX-XXX-01": {
+                    "Server XXX-XXX-XXX-01": {}
+                }
+            }
+        },
+        "Ventilation details of the technical components:": {
+            "Ventilation details of the technical components:": {
+                "Ventilation details of the technical components:": {
+                    "Ventilation details of the technical components:": {}
+                }
+            }
+        },
+        "Description of data flows": {
+            "Description of data flows": {
+                "Description of data flows": {}
+            }
+        },
+        "Server XXX-XXX-XXX-02": {
+            "Server XXX-XXX-XXX-02": {
+                "Server XXX-XXX-XXX-02": {
+                    "Server XXX-XXX-XXX-02": {}
+                }
+            }
+        },
+        "Server XXX-XXX-XXX-03": {
+            "Server XXX-XXX-XXX-03": {
+                "Server XXX-XXX-XXX-03": {
+                    "Server XXX-XXX-XXX-03": {}
+                }
+            }
+        },
+        "Server XXX-XXX-XXX-04": {
+            "Server XXX-XXX-XXX-04": {
+                "Server XXX-XXX-XXX-04": {
+                    "Server XXX-XXX-XXX-04": {}
+                }
+            }
+        },
+        "Platform Diagram": {
+            "Platform Diagram": {
+                "Platform Diagram": {}
+            }
+        },
+        "Description of the Qualification environment.": {
+            "Description of the Qualification environment.": {}
+        },
+        "Description of specific administrative accounts.": {
+            "Description of specific administrative accounts.": {
+                "Description of specific administrative accounts.": {}
+            }
+        },
+        "Description of the machines.": {
+            "Description of the machines.": {
+                "Description of the machines.": {}
+            }
+        },
+        "Description of the Integration environment.": {
+            "Description of the Integration environment.": {}
+        },
+        "Description of the pre-production environment.": {
+            "Description of the pre-production environment.": {}
+        },
+        "Description of the Production environment.": {
+            "Description of the Production environment.": {}
+        },
+        "Topic and Field of application": {},
+        "REFERENCE LIST : Staff members with nominal access to sensitive and highly sensitive areas": {},
+        "REFERENCE LIST : Staff members with generic access to sensitive and highly sensitive areas": {}
+    }
+}

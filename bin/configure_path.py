@@ -24,7 +24,8 @@ def update_config_paths():
     config['data_directories'] = {
         'resources': os.path.join(config['chemin_racine'], 'data/resources').replace("\\", "/"),
         'import_templates': os.path.join(config['chemin_racine'], 'data/resources/import_templates').replace("\\", "/"),
-        'images': os.path.join(config['chemin_racine'], 'data/resources/images').replace("\\", "/")
+        'images': os.path.join(config['chemin_racine'], 'data/resources/images').replace("\\", "/"),
+        'output': os.path.join(config['chemin_racine'], 'data/output').replace("\\", "/")
     }
 
     # Écrire la configuration mise à jour dans le fichier

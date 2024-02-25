@@ -1,0 +1,204 @@
+{
+    "INTERFACE": {
+        "Description of the interface objective: ": {},
+        "Interface purpose:": {
+            "Interface purpose:": {}
+        },
+        "Target type:": {
+            "Target type:": {}
+        },
+        "Service Constraint: ": {
+            "Service Constraint: ": {}
+        },
+        "Legal Constraints": {
+            "Legal Constraints": {
+                "Legal Constraints": {}
+            }
+        },
+        "Constraints related to the audit of actions. ": {
+            "Constraints related to the audit of actions. ": {
+                "Constraints related to the audit of actions. ": {
+                    "Constraints related to the audit of actions. ": {}
+                }
+            }
+        },
+        "Constraints related to system audits.": {
+            "Constraints related to system audits.": {
+                "Constraints related to system audits.": {
+                    "Constraints related to system audits.": {}
+                }
+            }
+        },
+        "Archiving constraints.": {
+            "Archiving constraints.": {
+                "Archiving constraints.": {
+                    "Archiving constraints.": {}
+                }
+            }
+        },
+        "Technical Constraints": {
+            "Technical Constraints": {
+                "Technical Constraints": {}
+            }
+        },
+        "Service opening constraints.": {
+            "Service opening constraints.": {
+                "Service opening constraints.": {
+                    "Service opening constraints.": {}
+                }
+            }
+        },
+        "Service Availability Constraints": {
+            "Service Availability Constraints": {
+                "Service Availability Constraints": {
+                    "Service Availability Constraints": {}
+                }
+            }
+        },
+        "Description of the solution's environments.": {
+            "Description of the solution's environments.": {}
+        },
+        "Development environment.": {
+            "Development environment.": {
+                "Development environment.": {}
+            }
+        },
+        "Qualification Environment": {
+            "Qualification Environment": {
+                "Qualification Environment": {}
+            }
+        },
+        "Integration environment.": {
+            "Integration environment.": {
+                "Integration environment.": {}
+            }
+        },
+        "Pre-production environment": {
+            "Pre-production environment": {
+                "Pre-production environment": {}
+            }
+        },
+        "Production environment.": {
+            "Production environment.": {
+                "Production environment.": {}
+            }
+        },
+        "Detailed interface description.": {},
+        "Authentication sequence.": {
+            "Authentication sequence.": {}
+        },
+        "Authentication Diagram ": {
+            "Authentication Diagram ": {}
+        },
+        "Interface contract.": {
+            "Interface contract.": {}
+        },
+        "File share ": {
+            "File share ": {
+                "File share ": {}
+            }
+        },
+        "File structure:": {
+            "File structure:": {
+                "File structure:": {
+                    "File structure:": {}
+                }
+            }
+        },
+        "File detection:": {
+            "File detection:": {
+                "File detection:": {
+                    "File detection:": {}
+                }
+            }
+        },
+        "Error management": {
+            "Error management": {
+                "Error management": {
+                    "Error management": {}
+                }
+            }
+        },
+        "Emitting service ": {
+            "Emitting service ": {
+                "Emitting service ": {
+                    "Emitting service ": {}
+                }
+            }
+        },
+        "Receiving service": {
+            "Receiving service": {
+                "Receiving service": {
+                    "Receiving service": {}
+                }
+            }
+        },
+        "File transfer ": {
+            "File transfer ": {
+                "File transfer ": {}
+            }
+        },
+        "Error management:": {
+            "Error management:": {
+                "Error management:": {
+                    "Error management:": {}
+                }
+            }
+        },
+        "Emitting service: ": {
+            "Emitting service: ": {
+                "Emitting service: ": {
+                    "Emitting service: ": {}
+                }
+            }
+        },
+        "Receiving service: ": {
+            "Receiving service: ": {
+                "Receiving service: ": {
+                    "Receiving service: ": {}
+                }
+            }
+        },
+        "API": {
+            "API": {
+                "API": {}
+            }
+        },
+        "flow structure:": {
+            "flow structure:": {
+                "flow structure:": {
+                    "flow structure:": {}
+                }
+            }
+        },
+        "Webservice": {
+            "Webservice": {
+                "Webservice": {}
+            }
+        },
+        "SQL ": {
+            "SQL ": {
+                "SQL ": {}
+            }
+        },
+        "Database structure:": {
+            "Database structure:": {
+                "Database structure:": {
+                    "Database structure:": {}
+                }
+            }
+        },
+        "Other": {
+            "Other": {
+                "Other": {}
+            }
+        },
+        "structure:": {
+            "structure:": {
+                "structure:": {
+                    "structure:": {}
+                }
+            }
+        }
+    }
+}
