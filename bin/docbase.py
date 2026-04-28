@@ -8,8 +8,8 @@ import json
 
 def load_config():
     config_path = '../config/config.json'  # Chemin vers le fichier de configuration
-    with open(config_path, 'r') as config_file:
-        config = json.load(config_file)
+    with open(config_path, 'r') as _config_file:
+        config = json.load(_config_file)
     return config
 
 def generer_contenu(document, app_name, app_code, config):

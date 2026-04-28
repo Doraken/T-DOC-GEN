@@ -5,8 +5,8 @@ from docx import Document
 
 def charger_configurations():
     # Charge les configurations à partir du fichier config.json
-    config_file = Path(__file__).parent.parent / 'config' / 'config.json'
-    with open(config_file, 'r') as fichier:
+    _config_file = Path(__file__).parent.parent / 'config' / 'config.json'
+    with open(_config_file, 'r') as fichier:
         return json.load(fichier)
 
 configurations = charger_configurations()
@@ -45,8 +45,8 @@ def generer_fichiers_config():
             # Récupère le type de document à partir du nom du fichier
             type_doc = filename.split('_')[0]
             # Nom du fichier de configuration à générer
-            config_filename = f'config_{type_doc}.json'
-            config_path = config_dir / config_filename
+            _config_filename = f'config_{type_doc}.json'
+            config_path = config_dir / _config_filename
             document_path = templates_path / filename
             
             # Extrait les titres du document
@@ -55,8 +55,8 @@ def generer_fichiers_config():
             structure_hierarchique = creer_structure_hierarchique(titres, document_name=type_doc)
             
             # Enregistre la structure hiérarchique dans un fichier JSON
-            with open(config_path, 'w') as config_file:
-                json.dump(structure_hierarchique, config_file, indent=4)
+            with open(config_path, 'w') as _config_file:
+                json.dump(structure_hierarchique, _config_file, indent=4)
             print(f"Generated config file: {config_path}")
 
 if __name__ == "__main__":

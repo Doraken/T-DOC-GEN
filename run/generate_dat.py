@@ -39,8 +39,8 @@ def demander_informations():
 
 def charger_configuration():
     # Charger les configurations à partir du fichier config.json
-    config_file = os.path.join(os.path.dirname(__file__), '..', 'config', 'config_DAT.json')
-    with open(config_file, 'r') as fichier:
+    _config_file = os.path.join(os.path.dirname(__file__), '..', 'config', 'config_DAT.json')
+    with open(_config_file, 'r') as fichier:
         return json.load(fichier)
 
 def run():

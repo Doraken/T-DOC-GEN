@@ -11,8 +11,8 @@ if chemin_run not in sys.path:
 
 # Charger les configurations depuis le fichier config.json
 def charger_configurations():
-    config_file = os.path.join(os.path.dirname(__file__), '..', 'config', 'config.json')
-    with open(config_file, 'r') as fichier:
+    _config_file = os.path.join(os.path.dirname(__file__), '..', 'config', 'config.json')
+    with open(_config_file, 'r') as fichier:
         return json.load(fichier)
 
 configurations = charger_configurations()
